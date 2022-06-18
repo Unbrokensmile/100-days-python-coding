@@ -9,4 +9,4 @@ total_fee = bill + tip
 tmp = input("How many people split the bill?")
 split = int(tmp)
 split_fee = round(total_fee / split, 2)
-print(f"each of you spend{split_fee} each")
+print(f"each of you spend {split_fee} each")
