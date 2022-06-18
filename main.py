@@ -1,1 +1,1 @@
-import day1.band_name_generator
+import day2.split_bill
